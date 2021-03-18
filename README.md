@@ -18,3 +18,12 @@ Reach me out 👇
 [![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Sthefanny-0000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-sthefanny-2353001b1/)](https://www.linkedin.com/in/larissa-sthefanny-2353001b1/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-sthefannylarissa27@gmail.com-7777cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sthefannylarissa27@gmail.com)](mailto:sthefannylarissa27@gmail.com)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
