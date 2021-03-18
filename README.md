@@ -2,7 +2,7 @@
 
   My name is Larissa, I'm from Brazil :)
   
-I currently work as a Data Architect and Systems Analyst, and I have been in technology since 2018. 👩‍💻💗
+I currently work as a Software Engineer and Systems Analyst, and I have been in technology since 2018. 👩‍💻💗
 
 #### The more I know, the more I am 🚀
  
