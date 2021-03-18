@@ -7,7 +7,7 @@ I currently work as a Data Architect and Systems Analyst, and I have been in tec
 #### The more I know, the more I am 🚀
  
 - 📍 João Pessoa - PB
-- 👩‍💻 Data Architect
+- 👩‍💻 Software Engineer
 - 🌈 Front-end and Back-end 
 
 
