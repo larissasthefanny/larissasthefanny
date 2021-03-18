@@ -10,6 +10,7 @@ I currently work as a Data Architect and Systems Analyst, and I have been in tec
 - 👩‍💻 Data Architect at Capgemini
 - 🌈 Front-end and Back-end 
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -20,7 +21,7 @@ I currently work as a Data Architect and Systems Analyst, and I have been in tec
 </div>
 
 
-Reach me out 👇
+### Reach me out 👇
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@l_sthefanny-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/l_sthefanny/)](https://www.instagram.com/l_sthefanny/) 
