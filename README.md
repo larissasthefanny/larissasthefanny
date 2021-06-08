@@ -8,7 +8,7 @@ I currently work as a Software Engineer and Systems Analyst, and I have been in 
  
 - 📍 João Pessoa - PB
 - 👩‍💻 Software Engineer
-- 🌈 Front-end and Back-end 
+- 🌈 Front-end, Back-end & Mobile 
 
 
 <div style="display: inline_block"><br>
