@@ -2,13 +2,13 @@
 
   My name is Larissa, I'm from Brazil :)
   
-I currently work as a Software Engineer and Systems Analyst, and I have been in technology since 2018. 👩‍💻💗
+I currently work as a Software Engineer BackEnd, and I have been in technology since 2018. 👩‍💻💗
 
 #### The more I know, the more I am 🚀
  
 - 📍 João Pessoa - PB
 - 👩‍💻 Software Engineer
-- 🌈 Front-end, Back-end & Mobile 
+- 🌈 Back-end & Mobile 
 
 
 <div style="display: inline_block"><br>
