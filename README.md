@@ -8,7 +8,7 @@ I currently work as a Software Engineer BackEnd, and I have been in technology s
  
 - 📍 João Pessoa - PB
 - 👩‍💻 Software Engineer
-- 🌈 Back-end & Mobile 
+- 🌈 Back-end
 
 ### Reach me out 👇
 
