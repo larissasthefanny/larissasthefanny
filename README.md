@@ -4,8 +4,6 @@
   
 - 🔭 I’m currently working on PicPay 👩‍💻💗
 
-- 📫 How to reach me sthefannylarissa27@gmail.com 
-
 #### The more I know, the more I am 🚀
  
 - 📍 João Pessoa - PB
