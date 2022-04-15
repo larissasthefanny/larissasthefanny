@@ -1,8 +1,8 @@
 ### Hello, I'm Larissa! 👋
 
-🇧🇷  Software Engineer <br>
-📍  Living in João Pessoa/PB, Brazil
+👩🏻‍💻  Software Engineer <br>
 🦋  active in the JavaGirls community
+📍  Living in João Pessoa/PB, Brazil
 
 
 
