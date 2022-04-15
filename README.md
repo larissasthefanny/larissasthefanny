@@ -2,7 +2,6 @@
 
 🇧🇷  Software Engineer <br>
 📍  Living in João Pessoa/PB, Brazil
-
 🦋  active in the JavaGirls community
 
 
