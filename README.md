@@ -2,7 +2,7 @@
 
 👩🏻‍💻  Java Software Engineer at PicPay<br>
 
-🦋  active in the JavaGirls community
+🦋  Active in the JavaGirls community
 
 📍  Living in João Pessoa/PB, Brazil
 
