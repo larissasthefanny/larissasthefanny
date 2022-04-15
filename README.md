@@ -1,8 +1,8 @@
 ### Hello, I'm Larissa! 👋
 
-👩🏻‍💻  Software Engineer <br>,
-🦋  active in the JavaGirls community, 
-📍  Living in João Pessoa/PB, Brazil
+🇧🇷 I'm building things with Java, Spring Framework and Kafka at @PicPay 
+👩‍💻 Teaching Java at ExpertsClub on @Rocketseat 
+🦋 Working on Java Bootcamp and Community Volunteer @Womakerscode 
 
 
 
