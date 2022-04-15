@@ -1,4 +1,4 @@
-### Hello, I'm Larissa! 👋
+### Hello, I'm Larissa! 🙋🏻‍♀️
 
 👩🏻‍💻  Java Software Engineer at PicPay<br>
 
