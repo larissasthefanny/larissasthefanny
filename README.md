@@ -1,6 +1,6 @@
 ### Hello, I'm Larissa! 👋
 
-👩🏻‍💻  Java Software Engineer <br>
+👩🏻‍💻  Java Software Engineer at PicPay<br>
 
 🦋  active in the JavaGirls community
 
