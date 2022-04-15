@@ -1,6 +1,6 @@
 ### Hello, I'm Larissa! 👋
 
-👩🏻‍💻  Software Engineer <br>
+👩🏻‍💻  Java Software Engineer <br>
 
 🦋  active in the JavaGirls community
 
