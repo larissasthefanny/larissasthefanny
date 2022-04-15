@@ -8,6 +8,7 @@
 ### Find me elsewhere 🌎
 
 🚀  [Blog](https://sthefanny.hashnode.dev/) <br>
+📧  [E-mail](<mailto: sthefannylarissa27@gmail.com>) <br>
 💼  [LinkedIn](https://www.linkedin.com/in/larissa-sthefanny-dev/) <br>
 
 ### My technology Stack 👩‍💻
