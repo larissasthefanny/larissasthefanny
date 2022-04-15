@@ -1,8 +1,7 @@
-### Hello, I'm Ana! 👋
+### Hello, I'm Larissa! 👋
 
-🇧🇷  I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
-👩‍💻  Teaching Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
-🦋  Working on Java Bootcamp and Community Volunteer [@Womakerscode](https://github.com/WoMakersCode) <br>
+🇧🇷  Software Engineer <br>
+🦋  active in the JavaGirls community
 
 
 
