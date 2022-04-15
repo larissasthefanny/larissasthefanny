@@ -1,20 +1,30 @@
-# Hey 🖖
+### Hello, I'm Ana! 👋
 
-  My name is Larissa, I'm from Brazil :)
-  
-- 🔭 I’m currently working on PicPay 👩‍💻💗
-
-#### The more I know, the more I am 🚀
- 
-- 📍 João Pessoa - PB
-- 👩‍💻 Software Engineer
-- 🌈 Back-end
-
-### Reach me out 👇
+🇧🇷  I'm building things with Java, Spring Framework and Kafka at [@PicPay](https://github.com/PicPay) <br>
+👩‍💻  Teaching Java at ExpertsClub on [@Rocketseat](https://github.com/Rocketseat) <br>
+🦋  Working on Java Bootcamp and Community Volunteer [@Womakerscode](https://github.com/WoMakersCode) <br>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@l_sthefanny-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/l_sthefanny/)](https://www.instagram.com/l_sthefanny/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Larissa%20Sthefanny-0000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-sthefanny-2353001b1/)](https://www.linkedin.com/in/larissa-sthefanny-2353001b1/) 
+### Find me elsewhere 🌎
 
-[![Gmail Badge](https://img.shields.io/badge/-sthefannylarissa27@gmail.com-7777cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sthefannylarissa27@gmail.com)](mailto:sthefannylarissa27@gmail.com)
+🚀  [Blog](https://sthefanny.hashnode.dev/) <br>
+💼  [LinkedIn](https://www.linkedin.com/in/larissa-sthefanny-dev/) <br>
+
+### My technology Stack 👩‍💻
+
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Scala" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+
+
+<br />
+<br />
+
