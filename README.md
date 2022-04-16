@@ -1,3 +1,6 @@
+<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
+
+
 ### Hello, I'm Larissa! 🙋🏻‍♀️
 
 👩🏻‍💻  Java Software Engineer at PicPay<br>
