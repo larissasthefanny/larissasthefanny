@@ -1,7 +1,4 @@
 
-
-<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/> ### Hello, I'm Larissa! 🙋🏻‍♀️
-
 👩🏻‍💻  Java Software Engineer at PicPay<br>
 
 🦋  Active in the JavaGirls community
@@ -35,3 +32,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br />
 <br />
+
+
+
+<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/> ### Hello, I'm Larissa! 🙋🏻‍♀️
+
