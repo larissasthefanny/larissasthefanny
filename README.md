@@ -1,13 +1,12 @@
 
-### Hello, I'm Larissa! 🙋🏻‍♀️
+
+<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/> ### Hello, I'm Larissa! 🙋🏻‍♀️
 
 👩🏻‍💻  Java Software Engineer at PicPay<br>
 
 🦋  Active in the JavaGirls community
 
 📍  Living in João Pessoa/PB, Brazil
-
-<img width="40%" align="left" alt="Java" src="https://github.com/wallanpsantos/wallanpsantos/blob/output/pixel-hacker.gif"/>
 
 
 ### Find me elsewhere 🌎
