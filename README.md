@@ -6,8 +6,8 @@ Hi, I'm Larissa 👩🏻‍💻.
 
 { I'm a software engineer at @PicPay }
 + Living in Joao Pessoa-PB, Brazil 🇧🇷.
-- 21 years old
-! JavaGirl, reader and gamer at times
+- 21 years old.
+! JavaGirl, reader and gamer at times.
 # 📖 Programming languages, POO, web development
 ```
 
