@@ -2,7 +2,7 @@
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
-Hi, I'm Larissa 👩‍💻.
+Hi, I'm Larissa 👩🏻‍💻.
 
 { I'm a software engineer at @PicPay }
 + Living in Joao Pessoa-PB, Brazil 🇧🇷.
