@@ -7,8 +7,8 @@ Hi, I'm Larissa 👩‍💻.
 { I'm a software engineer at @PicPay }
 + Living in Joao Pessoa-PB, Brazil 🇧🇷.
 - 21 years old
-! sometimes speaker, sometimes community manager, always shitposter
-# 📖 Programming languages, functional, web development
+! JavaGirl, reader and gamer at times
+# 📖 Programming languages, POO, web development
 ```
 
 #### 👉 *[sthefanny.dev](https://sthefanny.hashnode.dev)* 👈
