@@ -4,7 +4,7 @@
 ```diff
 Hi, I'm Larissa 👩‍💻.
 
-@@I'm a software engineer at PicPay@@
+{ I'm a software engineer at @PicPay }
 + Living in Joao Pessoa-PB, Brazil 🇧🇷.
 - 21 years old
 ! sometimes speaker, sometimes community manager, always shitposter
@@ -26,5 +26,4 @@ Hi, I'm Larissa 👩‍💻.
 |-- alemedeiros
 |2021-06-23
 | https://i2.paste.pics/CXGY6.png
-| sdds, Aninha! ❤️
 |-- nic>
