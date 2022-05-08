@@ -11,7 +11,7 @@ Hi, I'm Larissa 👩🏻‍💻.
 # 📖 Programming languages, POO, web development
 ```
 
-#### 👉 *[sthefanny.dev](https://sthefanny.hashnode.dev)* 👈
+#### 👉 *[sthefanny.dev](https://linkr.bio/sthefanny)* 👈
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
