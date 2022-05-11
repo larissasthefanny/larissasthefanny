@@ -1,17 +1,17 @@
-<img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+<img align="left" height="200" src="https://64.media.tumblr.com/ed8745b30c1a1d7eb1935017c94d8dbf/tumblr_n9i8foLj941qc2xm1o1_500.gifv"/>
+    
+    I'm Larissa, nice to e-meet you :)
+    Software Engineer @ PicPay
+    
+    - Back-End Developer
+    - Java 💜
+    - POO Programming
+    - creation of systems and architectures
+    - reader and gamer
+    - for animal causes!
 
-```diff
-Hi, I'm Larissa 👩🏻‍💻.
 
-{ I'm a software engineer at @PicPay }
-+ Living in Joao Pessoa-PB, Brazil 🇧🇷.
-- 21 years old.
-! JavaGirl, reader and gamer at times.
-# 📖 Programming languages, POO, web development
-```
-
-#### 👉 *[sthefanny.dev](https://linkr.bio/sthefanny)* 👈
+[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://sthefanny.hashnode.dev) [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:sthefannylarissa27@gmail.com) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/larissa-sthefanny-dev/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/l_sthefanny/) 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
