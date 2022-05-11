@@ -8,7 +8,7 @@
     - POO Programming
     - creation of systems and architectures
     - reader and gamer
-    - for animal causes!
+    - I love studying about Cybersecurity 💡
 
 
    #### 🦋 *[sthefanny.dev](https://linkr.bio/sthefanny)* 🦋 
