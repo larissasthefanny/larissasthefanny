@@ -4,14 +4,14 @@
     Software Engineer @ PicPay
     
     - Back-End Developer
-    - Java 💜
+    - Java and Spring Boot 💜
     - POO Programming
     - creation of systems and architectures
     - reader and gamer
     - for animal causes!
 
 
-   #### ✨ *[sthefanny.dev](https://linkr.bio/sthefanny)* ✨
+   #### 🦋 *[sthefanny.dev](https://linkr.bio/sthefanny)* 🦋
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
