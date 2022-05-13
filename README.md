@@ -5,7 +5,7 @@
     
     - Back-End Developer
     - Java and Spring Boot 💜
-    - POO Programming
+    - POO
     - creation of systems and architectures
     - reader and gamer
     - I love studying about Cybersecurity 💡
