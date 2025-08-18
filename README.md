@@ -1,8 +1,8 @@
 
     I'm Larissa, nice to e-meet you :)
     
-    - Back-End Developer
-    - Java and Spring Boot 💜
+    - Senior Software Engineer
+    - Java | Golang | Kotlin 💜
     - POO
     - creation of systems and architectures
     - reader and gamer
