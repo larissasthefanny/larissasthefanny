@@ -39,15 +39,6 @@ DDD · System Design · Async messaging · Observability
 
 ---
 
-## 📚 What I'm currently exploring
-
-- Cybersecurity fundamentals  
-- System design at scale  
-- High-performance backend in Go  
-- Practical AI/ML in backend services
-
----
-
 ## 📝 Highlights
 
 I share technical deep dives on backend development, testing philosophy, and modern architecture in my public posts and blog — solving real problems I encounter in production : [My Blog - Code In Real Life](https://larissasthefanny.substack.com/)
